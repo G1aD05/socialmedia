@@ -5,3 +5,6 @@ And here's the link:\
 https://socialmedia-3sed.onrender.com/
 
 Also it is extremely buggy
+
+
+Honestly it is much better when it's ran locally
